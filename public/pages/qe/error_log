@@ -1,0 +1,23 @@
+[18-Aug-2018 16:07:08 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[22-Aug-2018 05:51:29 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[22-Aug-2018 16:30:36 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[22-Aug-2018 16:32:01 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[25-Aug-2018 02:29:15 UTC] PHP Notice:  Undefined index: rcheck in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 9
+[25-Aug-2018 02:29:15 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[27-Aug-2018 15:54:49 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[28-Aug-2018 04:40:40 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[29-Aug-2018 05:29:20 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[29-Aug-2018 06:49:57 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[29-Aug-2018 06:53:52 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[02-Sep-2018 10:09:14 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[02-Sep-2018 13:11:16 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[02-Sep-2018 15:09:39 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[02-Sep-2018 15:21:19 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[02-Sep-2018 16:01:37 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[02-Sep-2018 16:03:20 UTC] PHP Warning:  Use of undefined constant rnum - assumed 'rnum' (this will throw an Error in a future version of PHP) in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 37
+[31-Mar-2019 11:06:38 UTC] PHP Notice:  Undefined index: name in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 5
+[31-Mar-2019 11:06:38 UTC] PHP Notice:  Undefined index: userid in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 6
+[31-Mar-2019 11:06:38 UTC] PHP Notice:  Undefined index: email in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 7
+[31-Mar-2019 11:06:38 UTC] PHP Notice:  Undefined index: mno in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 8
+[31-Mar-2019 11:06:38 UTC] PHP Notice:  Undefined index: rcheck in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 9
+[31-Mar-2019 11:06:38 UTC] PHP Notice:  Undefined index: tid in /home/kzu6vgsop3ea/public_html/pages/qe/insert.php on line 10
